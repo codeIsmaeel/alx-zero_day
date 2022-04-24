@@ -1,1 +1,2 @@
-task 1 Repo session
+Repo Session
+Collaboration: be up to date
